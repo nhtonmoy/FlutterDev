@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072244407778",
+    "project_id": "flash-chat-1afdd",
+    "storage_bucket": "flash-chat-1afdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072244407778:android:e24891bd7751c685e54dbb",
+        "android_client_info": {
+          "package_name": "co.nhtonmoy.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072244407778-evok5bp84j8a9c5r8iaaiv20abnno950.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBjJnxrLc2bLFQqii8wHnBvIYn93c5_1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072244407778-evok5bp84j8a9c5r8iaaiv20abnno950.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
